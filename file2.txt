@@ -1,5 +1,5 @@
 good
 
-in master change 
+no  master change 
 
-change in dev
+ change in dev
