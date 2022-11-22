@@ -1,3 +1,11 @@
-good
+print hello world
+
+good and nice
 
 change in master
+
+remove one line
+
+add two lines
+
+add three line
