@@ -2,7 +2,7 @@ good
 
 change in master
 
-add one line
+remove one line
 
 add two lines
 
