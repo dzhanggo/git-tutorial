@@ -1,4 +1,6 @@
-good
+print hello world
+
+good and nice
 
 change in master
 
